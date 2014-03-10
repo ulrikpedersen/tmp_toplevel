@@ -1,0 +1,3 @@
+[submodule "tmp_module"]
+	path = tmp_module
+	url = git@github.com:ulrikpedersen/tmp_module.git
